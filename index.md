@@ -14,7 +14,7 @@ Hepp economics is a free online resource for the economics course of the IB dipl
 Its structure rests on the official IB economics syllabus.
 {: .fs-6 .fw-300 }
 
-[Get studying](#get-studying){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [IB economics syllabus](https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/economics-hl-2016-english-final-web.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get studying](#get-studying){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2 } [IB economics syllabus](https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/economics-hl-2016-english-final-web.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
