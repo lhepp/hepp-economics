@@ -20,14 +20,14 @@ Its structure rests on the official IB economics syllabus.
 
 ## Get studying
 
-### Dependencies
+### Cras et eleifend ipsum
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+Duis ultrices ante leo, nec eleifend lectus lobortis id. Nulla tincidunt pulvinar lacus, ut rhoncus est dictum id. Mauris consequat erat ante, id sagittis massa tristique et. Pellentesque augue leo, sagittis at varius nec, feugiat et nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed volutpat elit ut mauris semper tincidunt quis finibus enim. Maecenas bibendum luctus elit, eu hendrerit ipsum aliquam at. Sed vestibulum dictum nulla, porttitor bibendum dolor fermentum a. Aliquam quis sapien eu dolor vulputate tincidunt eu quis velit.
 
-### Quick start: Use as a GitHub Pages remote theme
+### Proin cursus ipsum ut lobortis viverra
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+1. Sed vestibulum dictum nulla `Donec dapibus ut augue` as a [Sed volutpat](/microeconomics)
 ```yaml
-remote_theme: pmarsceill/just-the-docs
+Nunc et urna: non sapien volutpat elementum et vitae purus.
 ```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [Check this project out at GitHub](https://github.com/lhepp/hepp-economics)</small>
