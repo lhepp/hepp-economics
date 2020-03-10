@@ -30,4 +30,4 @@ Duis ultrices ante leo, nec eleifend lectus lobortis id. Nulla tincidunt pulvina
 ```yaml
 Nunc et urna: non sapien volutpat elementum et vitae purus.
 ```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [Check this project out at GitHub](https://github.com/lhepp/hepp-economics)</small>
+<small>Maecenas bibendum luctus elit, eu hendrerit ipsum aliquam at. `hepp economics` tincidunt. [Check this project out at GitHub](https://github.com/lhepp/hepp-economics)</small>
