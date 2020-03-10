@@ -6,17 +6,19 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Better than your textbook!
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Hepp economics is a free online resource for the economics course of the IB diploma programme. It does away with all the nonsense of your textbook; stripping away its overly elaborate excursions & digression, presenting you straight to the point what you need to know.
+</br>
+Its structure rests on the official IB economics syllabus.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get studying](#get-studying){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [IB economics syllabus](https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/economics-hl-2016-english-final-web.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## Get studying
 
 ### Dependencies
 
