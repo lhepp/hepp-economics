@@ -1,6 +1,6 @@
 ---
 layout: default
-title: online textbook
+title: Online Textbook
 nav_order: 2
 has_children: true
 ---
