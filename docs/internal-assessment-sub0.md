@@ -1,9 +1,0 @@
----
-layout: default
-title: IAS
-nav_order: 1
-has_children: true
-parent: Online Textbook
----
-
-# Section 1: Microeconomics

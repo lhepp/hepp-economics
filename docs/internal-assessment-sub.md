@@ -2,8 +2,7 @@
 layout: default
 title: IAS
 nav_order: 1
-has_children: true
-parent: Online Textbook
+parent: Internal Assessment
 ---
 
 # Section 1: Microeconomics
