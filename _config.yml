@@ -44,6 +44,8 @@ footer_content: "Copyright &copy; 2020 Levi Hepp.</a>"
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
+logo: "/assets/images/frog-logo.png"
+
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 # ga_tracking: UA-2709176-10
