@@ -131,7 +131,7 @@
   @include mq(md) {
     z-index: 101;
     height: $header-height;
-    max-height: $header-height;
+    max-height: 150px;
     border-bottom: $border $border-color;
   }
 }
