@@ -125,12 +125,12 @@
 
 .site-header {
   display: flex;
-  min-height: $header-height;
+  min-height: 150px;
   align-items: center;
 
   @include mq(md) {
     z-index: 101;
-    height: $header-height;
+    height: 150px;
     max-height: 150px;
     border-bottom: $border $border-color;
   }
