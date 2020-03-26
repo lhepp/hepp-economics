@@ -39,7 +39,9 @@ aux_links:
     - "https://lhepp.github.io/hepp-economics/about"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 Levi Hepp.</a>"
+footer_content: "
+  <img src="assets/images/froglogo.png" class="froggy" alt="">
+Copyright &copy; 2020 Levi Hepp.</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
