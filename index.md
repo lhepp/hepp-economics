@@ -24,15 +24,10 @@ Its structure rests on the official IB economics syllabus.
 
 Just the Docs uses a responsive type scale that shifts depending on the viewport size.
 
-| Syllabus component    |
-|:----------------------|
-|1. Introduction to economics|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 What is economics|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 How do economists approach the world?|
-|2. Microeconomics|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 Demand|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 Supply|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 Competetive market equilibrium|
+| Topic        | Syllabus component    |
+|:-------------|:----------------------|
+|1. Introduction to economics|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 What is economics </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 How do economists approach the world?|
+|2. Microeconomics|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 Demand </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 Supply </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 Competetive market equilibrium|
 
 ### Proin cursus ipsum ut lobortis viverra
 
