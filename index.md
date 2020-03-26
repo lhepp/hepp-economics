@@ -22,7 +22,7 @@ Its structure rests on the official IB economics syllabus.
 
 ### Cras et eleifend ipsum
 
-Just the Docs uses a responsive type scale that shifts depending on the viewport size.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
 | Topic        | Syllabus component    |
 |:-------------|:----------------------|
