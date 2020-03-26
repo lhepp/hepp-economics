@@ -22,7 +22,17 @@ Its structure rests on the official IB economics syllabus.
 
 ### Cras et eleifend ipsum
 
-Duis ultrices ante leo, nec eleifend lectus lobortis id. Nulla tincidunt pulvinar lacus, ut rhoncus est dictum id. Mauris consequat erat ante, id sagittis massa tristique et. Pellentesque augue leo, sagittis at varius nec, feugiat et nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed volutpat elit ut mauris semper tincidunt quis finibus enim. Maecenas bibendum luctus elit, eu hendrerit ipsum aliquam at. Sed vestibulum dictum nulla, porttitor bibendum dolor fermentum a. Aliquam quis sapien eu dolor vulputate tincidunt eu quis velit.
+Just the Docs uses a responsive type scale that shifts depending on the viewport size.
+
+| Syllabus component    |
+|:----------------------|
+|1. Introduction to economics|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 What is economics|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 How do economists approach the world?|
+|2. Microeconomics|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 Demand|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 Supply|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 Competetive market equilibrium|
 
 ### Proin cursus ipsum ut lobortis viverra
 
