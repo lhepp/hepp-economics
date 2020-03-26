@@ -1,5 +1,4 @@
 <nav role="navigation" aria-label="Main navigation">
-  <img src="assets/images/froglogo.png" class="froggy" alt="">
   <ul class="navigation-list">
     {%- assign pages_list = site.html_pages | sort:"nav_order" -%}
     {%- for node in pages_list -%}
@@ -38,4 +37,5 @@
       {%- endunless -%}
     {%- endfor -%}
   </ul>
+  <img src="assets/images/froglogo.png" class="froggy" alt="">
 </nav>
